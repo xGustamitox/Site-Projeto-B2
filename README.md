@@ -2,7 +2,7 @@
 # 
 ### Aluno: Gustavo Batista Bissoli
 ### Turma: CC1MB
-### Funções usados no JavaScript:
+### Códigos usados no JavaScript:
  ### Códigos responsáveis pela função de passar as imagens automaticamente, em um intervalo de 2 segundos:
  $('.slider-principal').slick({
   dots: true,
