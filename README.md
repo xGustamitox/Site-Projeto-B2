@@ -3,7 +3,7 @@
 ### Aluno: Gustavo Batista Bissoli
 ### Turma: CC1MB
 ### Funções usados no JavaSCript:
-### $('.slider-principal').slick({
+ $('.slider-principal').slick({
   dots: true,
   infinite: true,
   speed: 300,
@@ -14,7 +14,7 @@
   autoplaySpeed: 2000
 });
 ### Códigos responsáveis pela função de passar as imagens automaticamente, em um intervalo de 2 segundos.
-### function fn(){
+ function fn(){
     alert("Cadastro Enviado");
   
 }
