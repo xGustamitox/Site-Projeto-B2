@@ -3,7 +3,7 @@
 ### Aluno: Gustavo Batista Bissoli
 ### Turma: CC1MB
 ### Códigos usados no JavaScript:
- ### Códigos responsáveis pela função de passar as imagens automaticamente, em um intervalo de 2 segundos:
+ ### Códigos responsáveis pela função de passar as imagens para o lado automaticamente:
  $('.slider-principal').slick({
   dots: true,
   infinite: true,
